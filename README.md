@@ -59,3 +59,8 @@ As base image for deployment environment was taken vagrant box [gusztavvargadr/w
 
 Vagrant is configured to deploy VMs with the following services: MS SQL Server 2017 Express server, IIS server v10.0. 
 The Git ver 2.20.1 is installed for delivery project's build and SQL script for DB from GitHub repository.
+
+
+Link to youtobe:
+
+https://www.youtube.com/channel/UCdCwkQj5k3lKiZ2GjTqYoKg/videos?sort=da&view=0&flow=grid&view_as=subscriber
