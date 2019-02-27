@@ -8,7 +8,7 @@ This is not big webapp wich was wrote on the best language - C#
 
 You Can feeling all amazing just do some simple steps/.:
 
-## STEP by STEP
+## STEP BY STEP
 
 Install [Vagrant](https://www.vagrantup.com/downloads.html)
 
