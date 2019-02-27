@@ -57,7 +57,7 @@ It`s Done!
 
 VAGRANTFILE
 
-![image](https://github.com/Nimble85/bookstore/blob/master/data/Vagrantfile.png)
+####![image](https://github.com/Nimble85/bookstore/blob/master/data/Vagrantfile.png)
 
 As base image for deployment environment was taken vagrant box [gusztavvargadr/w16s](https://app.vagrantup.com/gusztavvargadr/boxes/w16s) with pre-installed SSH, WinRM and Chocolatey ver 0.10.11. User - vagrant, Password - vagrant.
 
