@@ -2,7 +2,6 @@
 
 1.About myself
 
-My name Serhii Klymoshenko and I`m student IT Academy SoftServe DP-157 Windows DevOps group.
 2.About Project
 
 This is a simple Internet book store 
@@ -107,13 +106,6 @@ You Can feeling all amazing this webapp just do some simple steps.
 In this project you Can create virtual environments, with virtual machines. Used to Vagrant.
 And some scripts  which will make all of deployment work for you!
 You can relax and enjoy process
-  
-Working with Create APP code application
-What was the main task about? – Implementing Staging environment
-What was done? 
-О чем была главная задача? – Осуществляющий Организацию окружающей среды
-Что было сделано?
-Развернуть проэкт используя вагрант средствами виртуализации 
-Msbuild, PowerShell, Vagrant, IIS 
+
 
 
