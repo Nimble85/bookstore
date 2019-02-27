@@ -1,0 +1,119 @@
+﻿Presentation Format
+
+1.About myself
+
+My name Serhii Klymoshenko and I`m student IT Academy SoftServe DP-157 Windows DevOps group.
+2.About Project
+
+This is a simple Internet book store 
+You Can make preorder the some books justto fill a registration form.
+
+
+3. Purpose / Objective / Goals
+Purpose this project were used tools of virtualization 
+Create web application on С#
+Make PowerShell scripts 
+4. Execute summary
+Create application on C#
+Made msbuild application
+Instaled and configured Vagrantfile
+Instaled and configured IIS with PowerShell script
+create BD MySQL base "Code The First" metodology
+Forvarding ports
+And finely we have InternetStore just enter one command in terminal
+5. Toolset - reasoning
+		Microsoft Visual Studio Community 2017
+		Microsoft .NET Frimework.4.7.1
+		Microsoft SQL Server 2017
+		Microsoft SQL Server 2012 Native Client
+		Microsoft Web Deploy 10.0.1994
+		IIS v.
+		Windows Server 2016 ...
+		MSBUILD
+		C#
+		PowerShells scripts
+		Chocolatey
+		Vagrant v.2.2.3
+		Oracle VM VirtualBox v.6.0.4
+
+6. Process  - Step by step guide
+			-	diagrams
+			
+		msbuild 	
+			
+7. Structure - big picture
+			- viewers
+			-Descriptions
+8. Output
+9. Benefit
+
+
+
+======================================
+DESCRIPTION
+======================================
+
+"This The Best, Simple Internet Book Store Can Improve You Live!"
+Make order the some books just to fill a registration form.
+
+This is not big webapp wich was wrote on the best language - C#
+
+You Can feeling all amazing just do some simple steps/.:
+
+======================================
+STEP by STEP
+======================================
+
+git pull ............
+cd "name of project"
+vagrant init
+vagrant up --provision
+
+wait some time
+
+open your web brouser and go to link:
+localhost:8080
+
+It`s Done!
+
+
+======================================
+Tech Steck
+======================================
+
+		Microsoft Visual Studio Community 2017
+		Microsoft .NET Frimework.4.7.1
+		Microsoft SQL Server 2017
+		Microsoft SQL Server 2012 Native Client
+		Microsoft Web Deploy 10.0.1994
+		IIS v.
+		Windows Server 2016 ...
+		MSBUILD
+		C#
+		PowerShells scripts
+		Chocolatey
+		Vagrant v.2.2.3
+		Oracle VM VirtualBox v.6.0.4
+
+
+======================================
+DIAGRAM
+======================================
+
+his is a simple Internet book store. You Can make order the some books just to fill a registration form.
+ This is not big web application which was wrote on the best language - C#
+You Can feeling all amazing this webapp just do some simple steps.
+
+In this project you Can create virtual environments, with virtual machines. Used to Vagrant.
+And some scripts  which will make all of deployment work for you!
+You can relax and enjoy process
+  
+Working with Create APP code application
+What was the main task about? – Implementing Staging environment
+What was done? 
+О чем была главная задача? – Осуществляющий Организацию окружающей среды
+Что было сделано?
+Развернуть проэкт используя вагрант средствами виртуализации 
+Msbuild, PowerShell, Vagrant, IIS 
+
+
